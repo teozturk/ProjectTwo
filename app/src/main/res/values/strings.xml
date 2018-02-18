@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ProjectTwo</string>
+    <string name="teamOne">TEAMONE</string>
+    <string name="add1GOAL">+1 GOAL</string>
+    <string name="add1FouL">+1 FOUL</string>
+    <string name="teamTwo">TEAMTWO</string>
+    <string name="reset">Reset</string>
+    <string name="share">Share</string>
+</resources>
+
+
